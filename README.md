@@ -1,5 +1,3 @@
-## Hi there 👋
-
 ### Olá! Eu sou Isac Alves 🖐🏾
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isac-alves-santos/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BA%2BRHDlklRmKB0UVIbF1QYA%3D%3D)
